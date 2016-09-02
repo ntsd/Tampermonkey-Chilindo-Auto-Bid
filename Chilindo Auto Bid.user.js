@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Auto Bid for http://www.chilindo.com/ you can set highest price you want to bid
 // @author       ntsd
-// @match       http://www.chilindo.com/product/42-387
+// @match       http://www.chilindo.com/*
 // @grant        none
 // ==/UserScript==
 
